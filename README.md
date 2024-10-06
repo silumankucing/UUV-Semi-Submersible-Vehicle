@@ -1,5 +1,5 @@
 ### UNMANNED UNDERWATER VEHICLE ###
-Heavily underdevelopment unmanned underwater vehicle (semi-submersible) platform
+Heavily UNDERDEVELOPMENT unmanned underwater vehicle (semi-submersible) platform
 
 *Tech Stack :*
 - Arduino Uno
