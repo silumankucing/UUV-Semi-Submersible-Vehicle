@@ -8,6 +8,7 @@ Heavily underdevelopment unmanned underwater vehicle (semi-submersible) platform
 - Water Level Sensor
 - Syringe 350mm
 - NEMA Motor
+- Motor Driver L298N
 
 *Gallery :*
 
